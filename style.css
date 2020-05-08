@@ -216,7 +216,7 @@ span{
     height: 70px;
     color: black;
     padding-top: 10px;
-    justify-content: space-between;
+    /* justify-content: space-between; */
 }
 
 
